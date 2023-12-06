@@ -4,7 +4,7 @@ This program detects acyclic graphs using the Sink Elimination algorithm
 ### Important Instructions
 
 * You need to modify the path in the `src/com/company/main` file for the graph input. Curruntly, as per my computer I have set it to `src/com/company/assets/input.txt` 
-* Make sure the path is relative to the root or you can als add the absolute path.
+* Make sure the path is relative to the root, or you can als add the absolute path.
 
 ## About  this program
 
