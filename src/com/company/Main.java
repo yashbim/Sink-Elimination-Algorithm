@@ -15,7 +15,7 @@ public class Main {
         Graph graph = new Graph();
 
 //      Modify the file path by adding the absolute path of the file.
-        String filepath = "D:\\ALGOCW\\src\\com\\company\\assets\\input.txt";
+        String filepath = "src/com/company/assets/input.txt";
         readFromFile(filepath, graph);
 
         graph.printGraph();
